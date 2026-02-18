@@ -136,6 +136,7 @@ body {
     border-radius: 6px;
     cursor: pointer;
     color: white;
+    margin: 10px;
     font-weight: 600;
 }
 
