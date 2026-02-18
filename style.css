@@ -201,7 +201,7 @@ body {
         display: none;
     }
     .search-box input{
-        width: 100px;
+        width: 50px;
     }
     .header{
         padding: 0px 10px;
@@ -211,7 +211,5 @@ body {
         font-weight: 700;
         color: #00A3FF;
     }
-    .search-box input{
-        display: none;
-    }
+
 }
